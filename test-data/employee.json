@@ -1,0 +1,7 @@
+{
+  "firstName": "Ava",
+  "lastName": "Automation",
+  "employeeId": "A${timestamp}",
+  "jobTitle": "Automaton Tester",
+  "employmentStatus": "Full-Time Contract"
+}

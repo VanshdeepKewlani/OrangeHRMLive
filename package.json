@@ -1,0 +1,18 @@
+{
+  "name": "orangehrm-playwright-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright TypeScript automation for the OrangeHRM employee lifecycle.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}
